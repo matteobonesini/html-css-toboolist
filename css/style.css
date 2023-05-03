@@ -23,3 +23,37 @@ h1 {
     display: inline-block;
     vertical-align: middle;
 }
+
+
+/* MAIN */
+main {
+    width: 70%;
+    margin: 30px auto;
+    background-color: white;
+    border-radius: 10px;
+}
+.container {
+    margin: 0 30px;
+}
+
+
+/* button section */
+.button-section {
+    padding: 10px 0;
+    border-bottom: 2px solid #F4F6F7;
+}
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+#add-task {
+    border: 0px;
+    background-color: #46ACF0;
+    color: white;
+}
+#add-section {
+    border: 1px solid #C6CCD1;
+    background-color: white;
+    color: #C6CCD1;
+}
