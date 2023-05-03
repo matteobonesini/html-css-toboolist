@@ -33,7 +33,7 @@ main {
     border-radius: 10px;
 }
 .container {
-    margin: 0 30px;
+    margin: 0 45px;
 }
 
 
@@ -59,11 +59,15 @@ button {
 }
 
 /* task section */
-h2 {
+.task-section {
     color: #434750;
+    padding: 15px 0;
 }
 .task {
-    
+    margin-bottom: 20px;
+}
+h2 {
+    margin: 15px 0 10px;
 }
 .check {
     display: inline-block;
@@ -86,10 +90,25 @@ h2 {
 .tag {
     padding: 5px 10px;
     display: inline-block;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
     font-size: 0.7em;
 }
 .editorial {
     background-color: #46ACF0;
+}
+.q1-goals {
+    background-color: #9C72E4;
+}
+.recruiting {
+    background-color: #64C0A9;
+}
+.mobile {
+    background-color: #F19D32;
+}
+.website {
+    background-color: #D863A1;
+}
+.sales {
+    background-color: #B0C926;
 }
