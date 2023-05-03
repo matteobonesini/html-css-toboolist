@@ -57,3 +57,39 @@ button {
     background-color: white;
     color: #C6CCD1;
 }
+
+/* task section */
+h2 {
+    color: #434750;
+}
+.task {
+    
+}
+.check {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 20px;
+    font-size: smaller;
+}
+.done {
+    border-color: green;
+    color: green;
+}
+.not-done {
+    border-color: red;
+    color: red;
+}
+.tag {
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 5px;
+    color: white;
+    font-size: 0.7em;
+}
+.editorial {
+    background-color: #46ACF0;
+}
